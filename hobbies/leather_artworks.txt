@@ -1,1 +1,1 @@
-
+This is a text to upload to GitHub, placed in the leather_artworks.txt.

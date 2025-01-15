@@ -1,1 +1,1 @@
-
+This is a test text inside the freecad_scripting.txt file to upload to GitHub.
